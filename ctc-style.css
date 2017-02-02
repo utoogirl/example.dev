@@ -1,6 +1,6 @@
 /*
 CTC Separate Stylesheet
-Updated: 2017-01-31 22:22:51
+Updated: 2017-02-02 19:15:37
 */
 
 body, button, input, select, textarea {
@@ -26,6 +26,9 @@ a {
 }
 .main-navigation a {
     font-family: 'Quicksand', sans-serif;
+}
+.main-navigation a:hover, .main-navigation ul li.current-menu-item a, .main-navigation ul li.current_page_ancestor a, .main-navigation ul li.current-menu-ancestor a, .main-navigation ul li.current_page_item a, .main-navigation ul li:hover > a {
+    color: #f90000;
 }
 .main-navigation ul li:hover ul, .main-navigation ul ul li:hover ul, .main-navigation ul ul ul li:hover ul, .main-navigation ul ul ul ul li:hover ul, .main-navigation ul ul ul ul ul li:hover ul {
     font-family: 'Quicksand', sans-serif;
