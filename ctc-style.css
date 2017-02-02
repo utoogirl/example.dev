@@ -1,0 +1,39 @@
+/*
+CTC Separate Stylesheet
+Updated: 2017-01-31 22:22:51
+*/
+
+body, button, input, select, textarea {
+    font-family: 'Quicksand', sans-serif;
+}
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Anton', sans-serif;
+}
+h1 {
+    font-family: 'Luckiest Guy', cursive;
+}
+p {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+a {
+    color: #f20ddd;
+}
+.main-navigation {
+    font-family: 'Quicksand', sans-serif;
+}
+.main-navigation a {
+    font-family: 'Quicksand', sans-serif;
+}
+.main-navigation ul li:hover ul, .main-navigation ul ul li:hover ul, .main-navigation ul ul ul li:hover ul, .main-navigation ul ul ul ul li:hover ul, .main-navigation ul ul ul ul ul li:hover ul {
+    font-family: 'Quicksand', sans-serif;
+}
+.widget-title span {
+    border-bottom: 1px solid #eb1717;
+}
+.post .entry-meta .read-more-link {
+    font-family: 'Quicksand', sans-serif;
+    background-color: rgba(25, 84, 145, 0.37);
+}
