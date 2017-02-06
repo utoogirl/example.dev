@@ -1,6 +1,6 @@
 /*
 CTC Separate Stylesheet
-Updated: 2017-02-02 19:15:37
+Updated: 2017-02-06 19:52:54
 */
 
 body, button, input, select, textarea {
@@ -10,7 +10,7 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Anton', sans-serif;
+    font-family: 'Luckiest Guy', cursive;
 }
 h1 {
     font-family: 'Luckiest Guy', cursive;
@@ -19,7 +19,7 @@ p {
     font-family: 'Gloria Hallelujah', cursive;
 }
 a {
-    color: #f20ddd;
+    color: #0deaf2;
 }
 .main-navigation {
     font-family: 'Quicksand', sans-serif;
