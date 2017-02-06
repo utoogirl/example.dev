@@ -1,6 +1,6 @@
 /*
 CTC Separate Stylesheet
-Updated: 2017-02-06 19:52:54
+Updated: 2017-02-06 22:24:12
 */
 
 body, button, input, select, textarea {
@@ -17,6 +17,12 @@ h1 {
 }
 p {
     font-family: 'Gloria Hallelujah', cursive;
+}
+blockquote {
+    border: 1px solid #14016f;
+    border: none;
+    font-family: 'Sansita', sans-serif;
+    border-left: 4px solid #490ef7;
 }
 a {
     color: #0deaf2;
